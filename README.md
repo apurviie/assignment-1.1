@@ -6,7 +6,7 @@
 </head>
 <body>
  <header>
- <h1>Riya's Portfolio</h1>
+ <h1>Apurvi's Portfolio</h1>
  <nav>
  <a href="#about">About</a> |
  <a href="#course">My Course</a> |
