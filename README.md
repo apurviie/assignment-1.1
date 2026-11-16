@@ -14,3 +14,38 @@
  <a href="https://github.com" target="_blank">GitHub (new tab)</a>
  </nav>
  </header>
+<main>
+ <section id="about">
+ <h2>About Me</h2>
+ <!-- Put your photo in an "img" folder. alt is a must! -->
+ <img src="img/me.jpg" alt="Riya smiling at her laptop" width="150">
+ <p>I am a first year student who loves web design.</p>
+ </section>
+ <section id="course">
+ <h2>My Course</h2>
+ <ul>
+ <li>Subjects
+ <ol>
+ <li>Web Development</li>
+ <li>DSA</li>
+ </ol>
+ </li>
+ <li>Tools: VS Code, Git</li>
+ </ul>
+ </section>
+ <article id="blog">
+ <h2>My First Blog</h2>
+ <p>Today I built my first webpage. It was fun!</p>
+ </article>
+ </main>
+ <aside>
+ <h3>Quick Facts</h3>
+ <dl>
+ <dt>Hobby</dt><dd>Drawing</dd>
+ </dl>
+ </aside>
+ <footer>
+ <p>Made by Riya</p>
+ </footer>
+</body>
+</html>
